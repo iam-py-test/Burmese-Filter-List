@@ -33,10 +33,6 @@ Filter Subscription URL တွင် အောက်ပါလင့်ခ်က�
 https://raw.githubusercontent.com/ThuHtooSan/Burmese-Filter-List/main/filterlist.txt
 ```
 
-## အသုံးပြုခြင်း
-
-အထက်ပါအဆင့် (၂) ဆင့်အားလုပ်ဆောင်ပြီးပါက အောက်ပါ Website များတွင် ကြော်ငြာကင်းကင်းဖြင့်အသုံးပြုနိုင်ပါပြီ။
-
 ## အကြံပြုခြင်း
 
 အကြံပြုလိုသော Website များရှိပါက Issue ဖွင့်၍ပြောကြားနိုင်ပါတယ်။

@@ -13,9 +13,9 @@ Adblock Plus ရဲ့ Filter List ကို အသုံးပြုတဲ့�
 * [Adblock Plus](https://play.google.com/store/apps/details?id=org.adblockplus.adblockplussbrowser) (Samsung Internet)
 * [AdGuard](https://adguard.com) 
 * [uBlock Origin](https://addons.mozilla.org/en-US/android/addon/ublock-origin/) (Firefox Add-on)
-* [Adblock Browser](https://play.google.com/store/apps/details?id=org.adblockplus.browser)
-* [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser)
-* [Opera Browser](https://play.google.com/store/apps/details?id=com.opera.browser)
+* [Adblock Browser](https://adblockbrowser.org/)
+* [Brave Browser](https://brave.com/download/)
+* [Opera Browser](https://www.opera.com/mobile)
 
 ### :computer: Desktop (Chrome/Firefox/Edge)
 
@@ -26,9 +26,9 @@ Adblock Plus ရဲ့ Filter List ကို အသုံးပြုတဲ့�
 * [AdGuard](https://adguard.com/)
 * [uBock Origin](https://ublockorigin.com/)
 
-## ထည့်သွင်းခြင်း
+## ဖြည့်သွင်းခြင်း
 
-Filter Subscription URL တွင် အောက်ပါလင့်ခ်ကိုထည့်သွင်းပါ။
+Filter Subscription URL တွင် အောက်ပါလင့်ခ်ကိုဖြည့်သွင်းပါ။
 ```
 https://raw.githubusercontent.com/ThuHtooSan/Burmese-Filter-List/main/filterlist.txt
 ```
@@ -36,3 +36,9 @@ https://raw.githubusercontent.com/ThuHtooSan/Burmese-Filter-List/main/filterlist
 ## အကြံပြုခြင်း
 
 အကြံပြုလိုသော Website များရှိပါက Issue ဖွင့်၍ပြောကြားနိုင်ပါတယ်။
+
+## License
+
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+
+*This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).*

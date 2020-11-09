@@ -15,6 +15,7 @@ mobilevsnews.com##.col-md-4, .col-sm-6 .btn-primary
 mmsubtitles.co##.module_home_ads, .module_single_ads, center, .code-block
 roda.site##.container .ads
 ||upgulpinon.com^ ! (18+ AD)
+||inpagepush.com^ ! (18+ AD)
 cinema.msubmovie.com##.myResponsiveAd, .fixedbar
 ushort.pro/wp-content/uploads/HoUntLkDcJDG/QRagCdoiZfTn.js?ver=*
 ushort.pro###primary, #secondary, iframe, header, .col-md-12, #footer-container

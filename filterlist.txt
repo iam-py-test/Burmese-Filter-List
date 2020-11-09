@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Khant's Burmese Filter List
-! Version: 2.0
-! Last modified: Nov 8 2020
+! Version: 2.1
+! Last modified: Nov 9 2020
 ! Expires: 7 days  (update frequency)
 ! Homepage: https://github.com/ThuHtooSan/Burmese-Filter-List
 ! 
@@ -14,8 +14,10 @@ www.goldchannel.net##._ning_holder
 mobilevsnews.com##.col-md-4, .col-sm-6 .btn-primary
 mmsubtitles.co##.module_home_ads, .module_single_ads, center, .code-block
 roda.site##.container .ads
-||upgulpinon.com^ ! (SEX AD POPUP)
+||upgulpinon.com^ ! (18+ AD)
 cinema.msubmovie.com##.myResponsiveAd, .fixedbar
 ushort.pro/wp-content/uploads/HoUntLkDcJDG/QRagCdoiZfTn.js?ver=*
-ushort.pro###primary, #secondary, iframe, header, .col-md-12
+ushort.pro###primary, #secondary, iframe, header, .col-md-12, #footer-container
+||steadfastsystem.com^ ! (NEW WINDOW AD POPUP)
 burmesesubtitles.com##.footerbanner, .headerbanner, .ads_728, iframe[src*="ads"]
+fixerror.xyz##.mh-header, .mh-wrapper, .mh-copyright-wrap

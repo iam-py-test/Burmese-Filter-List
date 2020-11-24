@@ -1,10 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: Khant's Burmese Filter List
-! Version: 2.1
-! Last modified: Nov 9 2020
+! Version: 2.2
+! Last modified: Nov 24 2020
 ! Expires: 7 days  (update frequency)
 ! Homepage: https://github.com/ThuHtooSan/Burmese-Filter-List
 ! 
+||upgulpinon.com^ ! (18+ AD)
+||inpagepush.com^ ! (18+ AD)
+||steadfastsystem.com^ ! (NEW WINDOW AD POPUP)
+||eskimi.com^
+||dkmadsnetwork.com^
+||cloudinary.com^
+||zetamm.com^
 channelmyanmar.org##.myResponsiveAd, .myResponsiveAd2, #cap1 video, #cap1 img, .contenidotv video, .contenidotv img, #custom_html-4, .footer
 www.thecmpage.com##.entry-content video, .entry-content a 
 kinocloud.org##.metaRedirectWrapperTopAds
@@ -12,13 +19,11 @@ www.goldchannel.net/?_dnembed=true
 www.goldchannel.net/wp-content/uploads/*/*/adpromotion*.png
 www.goldchannel.net##._ning_holder
 mobilevsnews.com##.col-md-4, .col-sm-6 .btn-primary
-mmsubtitles.co##.module_home_ads, .module_single_ads, center, .code-block
+mmsubtitles.co,fofmyanmar.com##.module_home_ads, .module_single_ads, center, .code-block
 roda.site##.container .ads
-||upgulpinon.com^ ! (18+ AD)
-||inpagepush.com^ ! (18+ AD)
 cinema.msubmovie.com##.myResponsiveAd, .fixedbar
 ushort.pro/wp-content/uploads/HoUntLkDcJDG/QRagCdoiZfTn.js?ver=*
 ushort.pro###primary, #secondary, iframe, header, .col-md-12, #footer-container
-||steadfastsystem.com^ ! (NEW WINDOW AD POPUP)
 burmesesubtitles.com##.footerbanner, .headerbanner, .ads_728, iframe[src*="ads"]
 fixerror.xyz##.mh-header, .mh-wrapper, .mh-copyright-wrap
+momolay.com##.col-sm-12 .text-muted, .col-sm-12 .img-responsive

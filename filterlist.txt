@@ -1,17 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: Khant's Burmese Filter List
-! Version: 2.25
-! Last modified: Nov 24 2020
+! Version: 2.3
+! Last modified: Nov 29 2020
 ! Expires: 7 days  (update frequency)
 ! Homepage: https://github.com/ThuHtooSan/Burmese-Filter-List
 ! 
 ||upgulpinon.com^ ! (18+ AD)
 ||inpagepush.com^ ! (18+ AD)
 ||steadfastsystem.com^ ! (NEW WINDOW AD POPUP)
+||doubleclick.net^
 ||eskimi.com^
 ||dkmadsnetwork.com^
 ||cloudinary.com^
 ||zetamm.com^
+||static.myopenads.com^
+||widgets.myjobs.com.mm^
+||tags.irrawaddy.com^
 channelmyanmar.org##.myResponsiveAd, .myResponsiveAd2, #cap1 video, #cap1 img, .contenidotv video, .contenidotv img, #custom_html-4, .footer
 www.thecmpage.com##.entry-content video, .entry-content a 
 kinocloud.org##.metaRedirectWrapperTopAds
@@ -28,3 +32,5 @@ burmesesubtitles.com##.footerbanner, .headerbanner, .ads_728, iframe[src*="ads"]
 fixerror.xyz##.mh-header, .mh-wrapper, .mh-copyright-wrap
 momolay.com##.col-sm-12 .text-muted, .col-sm-12 .img-responsive
 www.mizzimaburmese.com###block-block-58 p
+internetjournal.media###text-2, #custom_html-11
+7day.news##.googleAd, .mb-3 > a.inbody-ad

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Khant's Burmese Filter List
-! Version: 2.3
-! Last modified: Nov 29 2020
+! Version: 2.4
+! Last modified: Oct 13 2020
 ! Expires: 7 days  (update frequency)
 ! Homepage: https://github.com/ThuHtooSan/Burmese-Filter-List
 ! 
@@ -20,7 +20,8 @@ channelmyanmar.org##.myResponsiveAd, .myResponsiveAd2, #cap1 video, #cap1 img, .
 www.thecmpage.com##.entry-content video, .entry-content a 
 kinocloud.org##.metaRedirectWrapperTopAds
 www.goldchannel.net/?_dnembed=true
-www.goldchannel.net/wp-content/uploads/*/*/adpromotion*.png
+www.goldchannel.net/?_dnid=*&t=*
+www.goldchannel.net/wp-content/uploads/*/*/adpromotion*
 www.goldchannel.net##._ning_holder
 mobilevsnews.com##.col-md-4, .col-sm-6 .btn-primary
 mmsubtitles.co,fofmyanmar.com##.module_home_ads, .module_single_ads, center, .code-block
@@ -28,9 +29,20 @@ roda.site##.container .ads
 cinema.msubmovie.com##.myResponsiveAd, .fixedbar
 ushort.pro/wp-content/uploads/HoUntLkDcJDG/QRagCdoiZfTn.js?ver=*
 ushort.pro###primary, #secondary, iframe, header, .col-md-12, #footer-container
-burmesesubtitles.com##.footerbanner, .headerbanner, .ads_728, iframe[src*="ads"]
+burmesesubtitles.com##.headerbanner, .footerbanner, .footer, .ads_728, iframe[src*="ads"]
 fixerror.xyz##.mh-header, .mh-wrapper, .mh-copyright-wrap
 momolay.com##.col-sm-12 .text-muted, .col-sm-12 .img-responsive
 www.mizzimaburmese.com###block-block-58 p
 internetjournal.media###text-2, #custom_html-11
 7day.news##.googleAd, .mb-3 > a.inbody-ad
+thevoicemyanmar.com#?#section:-abp-has(> .row.category-caption > .col-lg-12 > h2:-abp-contains(ADVERTORIAL))
+mmtimes.com##.pane-news-overview-panel-pane-sponsored
+cdn.jobnet.com.mm/images/banner-image/*
+www.jobsinyangon.com##section.parallax-1
+www.myanmarcarmarketplace.com##.main .box-border
+www.yangondirectory.com##a.carousel-cell[style*="728x90"], .advertiser-list
+carsdb.com##.container > .row.premium, .feature-cars-list
+carsdb.com#?##hits > div:-abp-has(> .col-md-3.image-block > a.top-spot-car)
+carsdb.com#?##hits > div:-abp-has(> .col-md-3.image-block > a.featured-car)
+m.carsdb.com#?#div.car-cards-list > div > div > div:-abp-has(> .card-content > div.car-overview-image > div:-abp-contains(TOP SPOT))
+m.carsdb.com#?#div.car-cards-list > div > div > div:-abp-has(> .card-content > div.car-overview-image > div:-abp-contains(FEATURED))
